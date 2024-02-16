@@ -1,0 +1,19 @@
+.fondo{
+    background-color:black;
+}
+
+.letra{
+    font-family: 'Edu QLD Beginner', cursive;
+    font-size: 20px;
+    color: white;
+    font-weight:bolder;
+}
+
+ .letra2{
+    font-family: 'Edu QLD Beginner', cursive;
+    font-size: 32px;
+    color: rgb(37, 154, 158);
+    font-weight:bolder;
+
+ }
+ 
